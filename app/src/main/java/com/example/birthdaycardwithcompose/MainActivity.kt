@@ -60,6 +60,6 @@ fun GreetingForBirthdayCard(message : String , from : String){
 @Composable
 fun DefaultPreview() {
     BirthdayCardWithComposeTheme {
-        GreetingForBirthdayCardWithImage("Happy Birthday!!!","Suhail P A")
+        GreetingForBirthdayCardWithImage("Happy Birthday!!!...Wish you all the best","Suhail P A")
     }
 }

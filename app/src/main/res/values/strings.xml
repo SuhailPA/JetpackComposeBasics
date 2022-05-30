@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">BirthdayCardWithCompose</string>
+    <string name="happy_birthday_string">Happy Birthday!...Wish you all the best</string>
+    <string name="wishes_from">Suhail P A</string>
 </resources>
